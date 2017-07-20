@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\logo.png",
+        "source": "C:\\android\\LingLing\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\android\\LingLing\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

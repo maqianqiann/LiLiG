@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_topbar_btn_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\selector_topbar_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\progress.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\progress.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_white.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\checkbox_white.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_func_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\selector_func_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao30_white_nstorke.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao30_white_nstorke.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_style.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\edit_text_style.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_topbar_textbtn_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\selector_topbar_textbtn_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_popup_vertical_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_popup_vertical_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_checked.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_checkbox.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\selector_checkbox.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_dialog_edit_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_dialog_edit_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\rotate_loading.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\rotate_loading.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\white_radio.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\white_radio.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao_ysolid_white.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao_ysolid_white.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_black.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\edit_text_black.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao_red.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao_red.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\radiobutton_style.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\radiobutton_style.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_normal.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\checkbox_normal.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\xml_back_textcolor.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\xml_back_textcolor.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao_solid_golden.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao_solid_golden.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_blue.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\checkbox_blue.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao30_white_ystorke.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao30_white_ystorke.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\common_btn_green.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\common_btn_green.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao_solid_red.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao_solid_red.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_yuanjiao_white.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_yuanjiao_white.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\red_radio.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\red_radio.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\radiobutton.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\radiobutton.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_popup_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_popup_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_login_red.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_login_red.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_custom_dialog_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_custom_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\shape_album_image_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\shape_album_image_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_nostork_black.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\edit_text_nostork_black.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\chat_camera_bg.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\chat_camera_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_white.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\edit_text_white.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_back_btn.xml",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\drawable\\selector_back_btn.xml"
+    }
+]

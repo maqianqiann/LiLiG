@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottomdialog_exit.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\bottomdialog_exit.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_ins.xml",
+        "source": "C:\\android\\LingLing\\app\\src\\main\\res\\anim\\fade_ins.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_fade_in.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\anim_fade_in.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_from_left.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\out_from_left.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "C:\\android\\LingLing\\app\\src\\main\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottomdialog_enter.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\bottomdialog_enter.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_from_right.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\out_from_right.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_fade_out.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\anim_fade_out.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    }
+]

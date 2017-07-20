@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TagCloudView"><attr name="autoScrollMode"><enum name="disable" value="0"/><enum name="decelerate" value="1"/><enum name="uniform" value="2"/></attr><attr format="float" name="radiusPercent"/><attr format="float" name="scrollSpeed"/><attr format="color" name="lightColor"/><attr format="color" name="darkColor"/></declare-styleable>
+    <string name="app_name">tagcloud</string>
+</resources>

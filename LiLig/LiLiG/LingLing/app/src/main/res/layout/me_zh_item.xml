@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+
+        style="@style/linear_s">
+
+        <TextView
+            android:id="@+id/txt_sy_me_zh"
+            android:text="租吧收益"
+            style="@style/zh_s" />
+
+        <TextView
+            android:id="@+id/txt_time_me_zh"
+            android:text="2010-01-08"
+            style="@style/zh_s"
+            />
+
+        <TextView
+            android:id="@+id/txt_price_me_zh"
+            android:text="+300.00"
+            style="@style/zh_s"
+            />
+    </LinearLayout>
+</LinearLayout>

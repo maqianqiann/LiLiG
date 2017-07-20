@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/qb_bj"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x96"
+        android:orientation="horizontal"
+        android:background="#d8ffffff"
+        >
+        <ImageView
+            android:layout_width="@dimen/x96"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/fh"
+            android:layout_marginTop="@dimen/x40"
+            android:id="@+id/image_back_change_name"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/x96"
+            android:text="个人简介"
+            android:layout_marginLeft="@dimen/x220"
+            android:layout_marginTop="@dimen/x40"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="@dimen/x36"
+            android:layout_marginBottom="@dimen/x30"
+            android:textColor="#403f3d"
+            />
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/x2"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="完成"
+            android:layout_marginRight="@dimen/x20"
+            android:layout_marginTop="@dimen/x45"
+            android:id="@+id/txt_over_change_name"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#d8ffffff"
+        >
+        <TextView
+            android:layout_margin="@dimen/x20"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x356"
+            android:background="#fff"
+            android:paddingLeft="@dimen/x32"
+            android:hint="哈哈哈哈哈哈哈啊哈哈~~~"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/x24"
+
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

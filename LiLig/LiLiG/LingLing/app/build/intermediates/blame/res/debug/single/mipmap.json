@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\home_top_arrows.png",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\mipmap\\home_top_arrows.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\image_quanbu_back.png",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\mipmap\\image_quanbu_back.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\progress.png",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\mipmap\\progress.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\checkbox_checked.png",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\mipmap\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\search_deleted.png",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\mipmap\\search_deleted.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\icon_back_norma.png",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\mipmap\\icon_back_norma.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\checkbox_normal.png",
+        "source": "C:\\android\\LingLing\\app\\build\\intermediates\\exploded-aar\\LingLing\\mylibrary\\unspecified\\res\\mipmap\\checkbox_normal.png"
+    }
+]

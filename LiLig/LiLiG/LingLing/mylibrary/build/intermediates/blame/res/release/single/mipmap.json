@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\mipmap\\search_deleted.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\mipmap\\search_deleted.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\mipmap\\home_top_arrows.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\mipmap\\home_top_arrows.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\mipmap\\checkbox_checked.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\mipmap\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\mipmap\\checkbox_normal.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\mipmap\\checkbox_normal.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\mipmap\\progress.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\mipmap\\progress.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\mipmap\\icon_back_norma.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\mipmap\\icon_back_norma.png"
+    },
+    {
+        "merged": "C:\\android\\LingLing\\mylibrary\\build\\intermediates\\res\\merged\\release\\mipmap\\image_quanbu_back.png",
+        "source": "C:\\android\\LingLing\\mylibrary\\src\\main\\res\\mipmap\\image_quanbu_back.png"
+    }
+]

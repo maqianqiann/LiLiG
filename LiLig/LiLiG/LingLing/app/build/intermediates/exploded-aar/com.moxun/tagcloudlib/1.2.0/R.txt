@@ -1,0 +1,15 @@
+int attr autoScrollMode 0x7f010000
+int attr darkColor 0x7f010004
+int attr lightColor 0x7f010003
+int attr radiusPercent 0x7f010001
+int attr scrollSpeed 0x7f010002
+int id decelerate 0x7f030000
+int id disable 0x7f030001
+int id uniform 0x7f030002
+int string app_name 0x7f020000
+int[] styleable TagCloudView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable TagCloudView_autoScrollMode 0
+int styleable TagCloudView_darkColor 4
+int styleable TagCloudView_lightColor 3
+int styleable TagCloudView_radiusPercent 1
+int styleable TagCloudView_scrollSpeed 2
