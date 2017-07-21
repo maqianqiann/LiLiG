@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/qb_bj"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x116"
+        android:background="#d8ffffff"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="约么"
+            android:gravity="center"
+            android:textSize="@dimen/x36"
+            android:layout_marginTop="@dimen/x50"
+
+            />
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_marginTop="@dimen/x22"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x116"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginRight="@dimen/x20"
+            android:background="#ae9f769f"
+            android:text="想去的XXX地方，可是没人陪，不要紧，快来这里发布一个吧，寻找志同道合的有缘人！！！"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:padding="@dimen/x20"
+       />
+
+        <RelativeLayout
+            android:layout_marginTop="@dimen/x136"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x272"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginRight="@dimen/x20"
+            android:background="#bbe5cfe0"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@+id/relative_yue"
+
+            >
+
+            <ImageView
+                android:layout_width="@dimen/x160"
+                android:layout_height="@dimen/x160"
+                android:src="@mipmap/ym_zb_fb"
+                android:layout_marginTop="@dimen/x95"
+                android:id="@+id/show_image_data"
+
+                />
+
+        </RelativeLayout>
+        <ImageView
+            android:layout_width="@dimen/x144"
+            android:layout_height="@dimen/x144"
+            android:src="@mipmap/ym_xr"
+            android:layout_marginLeft="@dimen/x10"
+            android:layout_marginTop="@dimen/x100"
+            android:layout_centerHorizontal="true"
+            />
+        <com.lingling.linglingdating.view.MyListView
+            android:layout_below="@id/relative_yue"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/x20"
+            android:id="@+id/listView_data"
+            android:descendantFocusability="blocksDescendants"
+            >
+
+        </com.lingling.linglingdating.view.MyListView>
+
+    </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f7e3"
+    >
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x96"
+        android:layout_marginTop="@dimen/x26"
+        >
+        <View
+            android:layout_width="2dp"
+            android:layout_height="@dimen/x96"
+            android:layout_marginLeft="@dimen/x30"
+            android:background="@color/colorPou"
+
+            ></View>
+
+        <ImageView
+
+            android:id="@+id/imageView1"
+            android:layout_width="@dimen/x26"
+            android:layout_height="@dimen/x26"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="@dimen/x26"
+            android:layout_marginLeft="@dimen/x20"
+            android:src="@mipmap/yq" />
+
+        <TextView
+            android:id="@+id/time_txt_list_head"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/x14"
+            android:layout_toRightOf="@+id/imageView1"
+            android:textColor="#37362f"
+            android:textSize="@dimen/x32"
+            android:text="今天"
+
+            />
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/x110"
+            android:layout_toRightOf="@+id/time_txt_list_head"
+            android:background="@mipmap/wd_czp"
+
+
+            />
+    </RelativeLayout>
+</LinearLayout>

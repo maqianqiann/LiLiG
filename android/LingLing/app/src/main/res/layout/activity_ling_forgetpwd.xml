@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj"
+    >
+
+
+
+    <ImageView
+        android:layout_marginTop="@dimen/x170"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/x150"
+        android:background="@mipmap/logo"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_marginTop="@dimen/x40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="令交友，变得简单"
+        android:layout_gravity="center"
+
+        />
+    <EditText
+        android:layout_marginTop="@dimen/x86"
+        android:background="@drawable/shape_yuan"
+        android:layout_width="@dimen/x600"
+        android:layout_height="50dp"
+        android:hint="   请输入手机号"
+        android:textSize="16sp"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center"
+        android:id="@+id/name_forget_ed"
+        />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
+        >
+        <EditText
+            android:layout_marginTop="@dimen/x30"
+            android:layout_width="@dimen/x600"
+            android:layout_height="50dp"
+            android:hint="  请输入密码"
+            android:background="@drawable/shape_yuan"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/pwd_forget_ed"
+
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="获取验证码"
+            android:layout_marginTop="@dimen/x30"
+            android:layout_marginLeft="@dimen/x420"
+            android:id="@+id/yz_forget_button"
+            android:background="@color/colorPre"
+            />
+    </RelativeLayout>
+
+
+
+    <Button
+        android:layout_width="@dimen/x600"
+        android:layout_height="wrap_content"
+        android:text="进入"
+        android:layout_marginTop="@dimen/x140"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/x20"
+        android:background="@color/colorPre"
+        android:textColor="#fff"
+        android:textSize="@dimen/x30"
+        android:id="@+id/next_forget_button"
+        />
+
+</LinearLayout>

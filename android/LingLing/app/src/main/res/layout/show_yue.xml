@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x96"
+        android:orientation="horizontal"
+        android:background="#d6ebe6e0"
+
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/fh"
+            android:layout_margin="@dimen/x20"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x96"
+            android:text="发布"
+            android:textSize="@dimen/x32"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginRight="@dimen/x55"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#d6ebe6e0"
+        android:orientation="vertical"
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x260"
+            android:background="#fef2f7"
+            android:layout_margin="@dimen/x20"
+            android:hint="发布您的需求吧~"
+            android:textColor="#b3b3b4"
+            android:padding="@dimen/x20"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/dw"
+                android:layout_marginLeft="@dimen/x40"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/x26"
+                android:text="北京"
+                android:layout_marginLeft="@dimen/x15"
+                />
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:layout_weight="1"
+                ></View>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/sj"
+                android:layout_marginLeft="@dimen/x40"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/x26"
+                android:text="今日"
+                android:layout_marginLeft="@dimen/x16"
+                android:layout_marginRight="@dimen/x30"
+                />
+
+        </LinearLayout>
+        <GridView
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x252"
+            android:numColumns="4"
+            android:id="@+id/grid_show_yue"
+            android:layout_margin="@dimen/x20"
+            android:verticalSpacing="@dimen/x10"
+            android:horizontalSpacing="@dimen/x10"
+            ></GridView>
+        
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/x20"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" 
+                android:textSize="@dimen/x28"
+                android:text="赏金 :"
+                android:textColor="#2c2c1b"
+                />
+            <Button
+                android:layout_width="@dimen/x106"
+                android:layout_height="@dimen/x80"
+                android:text="100"
+                android:textColor="#fff"
+                android:background="@drawable/shape_yuan1"
+                android:layout_marginLeft="@dimen/x20"
+
+                />
+            <Button
+                android:layout_width="@dimen/x106"
+                android:layout_height="@dimen/x80"
+                android:text="100"
+                android:textColor="#808080"
+                android:background="@drawable/shape_yuan"
+                android:layout_marginLeft="@dimen/x20"
+
+                />
+            <Button
+                android:layout_width="@dimen/x106"
+                android:layout_height="@dimen/x80"
+                android:text="100"
+                android:textColor="#808080"
+                android:background="@drawable/shape_yuan"
+                android:layout_marginLeft="@dimen/x20"
+
+                />
+            <Button
+                android:layout_width="@dimen/x106"
+                android:layout_height="@dimen/x80"
+                android:text="100"
+
+                android:background="@drawable/shape_yuan"
+                android:layout_marginLeft="@dimen/x20"
+                android:textColor="#808080"
+
+                />
+            <Button
+                android:layout_width="@dimen/x106"
+                android:layout_height="@dimen/x80"
+                android:text="其他"
+                android:textColor="#808080"
+                android:background="@drawable/shape_yuan"
+                android:layout_marginLeft="@dimen/x20"
+                />
+            
+        </LinearLayout>
+
+     <Button
+         android:id="@+id/show_button"
+         android:layout_width="@dimen/x676"
+         android:layout_height="@dimen/x88"
+         android:background="@mipmap/fb_zs"
+         android:layout_margin="@dimen/x20"
+         android:textColor="#fff"
+         android:text="发布"
+         android:textSize="@dimen/x32"
+
+         />
+
+    </LinearLayout>
+
+
+</LinearLayout>
