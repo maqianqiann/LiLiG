@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj_bs"
+    >
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x20"/>
+<include
+    layout="@layout/view_simple_topbar"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            style="@style/start_data"
+            android:background="@mipmap/y_b"
+            />
+        <ImageView
+            android:layout_width="@dimen/x120"
+            android:layout_height="@dimen/x104"
+            android:background="@mipmap/y_x"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/x78"
+
+            />
+        <ImageView
+            android:layout_marginRight="@dimen/x22"
+            style="@style/start_data"
+             android:layout_marginLeft="@dimen/x78"
+            android:background="@mipmap/y_g"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"
+        >
+        <TextView
+            android:layout_width="@dimen/x280"
+            android:layout_height="wrap_content"
+            android:text="D S帅哥"
+            android:textSize="@dimen/x30"
+            android:textColor="@color/colorName"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_marginRight="@dimen/x279"
+            />
+
+        <TextView
+
+            android:layout_width="@dimen/x280"
+            android:layout_height="wrap_content"
+            android:text="小美女"
+            android:gravity="center"
+            android:textSize="@dimen/x30"
+            android:textColor="@color/colorName"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x88"
+        android:background="@mipmap/qdyh_zs"
+        android:layout_marginTop="@dimen/x216"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_marginRight="@dimen/x20"
+        android:textColor="@color/colorWhite"
+        android:text="不想约了"
+        android:textSize="@dimen/x32"
+        />
+</LinearLayout>

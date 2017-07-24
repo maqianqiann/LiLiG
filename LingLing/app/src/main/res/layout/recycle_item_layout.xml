@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="@dimen/x110">
+<ImageView
+    android:layout_width="@dimen/x84"
+    android:layout_height="@dimen/x84"
+    android:src="@mipmap/tou_xiang"
+    android:layout_margin="@dimen/x13"
+    android:id="@+id/image_tou_recycle_item"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/x28"
+        android:textColor="#43413f"
+        android:text="帅哥"
+        android:layout_marginTop="@dimen/x30"
+        android:layout_marginLeft="@dimen/x36"
+        android:id="@+id/txt_name_recycle_item"
+
+        />
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        />
+    <TextView
+
+        android:layout_width="@dimen/x130"
+        android:layout_height="@dimen/x48"
+        android:text="加关注"
+        android:textSize="@dimen/x24"
+        android:layout_margin="@dimen/x20"
+        android:gravity="center"
+        android:background="@drawable/care_selector"
+        android:textColor="#fff"
+        android:id="@+id/txt_care_recycle_item"
+        />
+</LinearLayout>

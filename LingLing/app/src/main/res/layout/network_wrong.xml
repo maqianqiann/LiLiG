@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj_bs"
+>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x116"
+        android:background="#d8ffffff"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="约么"
+            android:gravity="center"
+            android:textSize="@dimen/x36"
+            android:layout_marginTop="@dimen/x50"
+
+            />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="@dimen/x344"
+        android:layout_height="@dimen/x354"
+        android:layout_gravity="center"
+        android:background="@mipmap/wlyc"
+        android:layout_marginTop="@dimen/x206"
+        />
+    <TextView
+        android:layout_marginTop="@dimen/x38"
+        android:layout_width="@dimen/x368"
+        android:layout_height="@dimen/x78"
+        android:text="呀！网络出问题啦"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/x26"
+        />
+    <TextView
+        android:layout_marginTop="@dimen/x110"
+        android:layout_width="@dimen/x368"
+        android:layout_height="@dimen/x78"
+        android:text="重新加载"
+        android:gravity="center"
+        android:background="@mipmap/cxjz_bk"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/x26"
+        android:id="@+id/txt_restart_wrong"
+        />
+
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_margin="@dimen/x20"
+    >
+<ImageView
+    android:layout_width="@dimen/x96"
+    android:layout_height="@dimen/x96"
+    android:background="@mipmap/tou_xiang"
+    android:id="@+id/im_tou_keep_item"
+    android:layout_marginTop="@dimen/x20"
+    />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/x128"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/x24"
+        android:layout_marginTop="@dimen/x16"
+        >
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="帅哥"
+        android:textSize="@dimen/x28"
+            android:id="@+id/txt_name_keep_item"
+
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="周六 19：20"
+            android:textSize="@dimen/x24"
+            android:id="@+id/txt_time_keep_item"
+            android:layout_marginTop="@dimen/x20"
+            />
+
+    </LinearLayout>
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_weight="1"
+        ></View>
+    <Button
+
+        android:layout_marginTop="@dimen/x32"
+        android:layout_width="@dimen/x134"
+        android:layout_height="@dimen/x52"
+        android:text="接受"
+        android:background="@mipmap/fb_zs"
+        android:textColor="@color/colorWhite"
+        android:id="@+id/but_accept_keep_item"
+        />
+    <Button
+
+        android:layout_marginTop="@dimen/x32"
+        android:layout_marginRight="@dimen/x2"
+        android:layout_marginLeft="@dimen/x20"
+        android:layout_width="@dimen/x134"
+        android:layout_height="@dimen/x52"
+        android:text="走开"
+        android:background="@mipmap/fb_hs_disable"
+        android:textColor="@color/colorWhite"
+        android:id="@+id/but_go_away_keep_item"
+        android:visibility="gone"
+        />
+    
+</LinearLayout>

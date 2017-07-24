@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj"
+    >
+<include
+    layout="@layout/include_layout"/>
+    <ImageView
+        android:layout_width="@dimen/x200"
+        android:layout_height="@dimen/x200"
+        android:src="@mipmap/phote"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/x36"
+        />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="点击编辑头像"
+          android:layout_gravity="center"
+          android:textColor="#fff"
+          />
+    <EditText
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape_yuan"
+        android:layout_width="@dimen/x600"
+        android:layout_height="@dimen/x88"
+        android:hint="  请输入用户名"
+        android:textSize="16sp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
+        />
+    <EditText
+        android:layout_marginTop="30dp"
+
+        android:layout_width="@dimen/x600"
+        android:layout_height="@dimen/x264"
+        android:hint="  请输入您的个人简历加快对您的了解哦~"
+         android:gravity="left"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
+        android:textSize="10sp"
+        android:textColor="#d7cbd0"
+        android:background="#00000066"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/x32"
+        android:gravity="left"
+        android:layout_marginLeft="@dimen/x120"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="性别: "
+            android:layout_marginTop="20dp"
+
+            android:textSize="17sp"
+            />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/colorMain"
+            android:layout_marginLeft="@dimen/x50"
+            />
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="男"
+            android:textSize="17sp"
+            android:layout_marginLeft="@dimen/x30"
+            />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="@dimen/x60"
+            />
+        <TextView
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="女"
+            android:textSize="17sp"
+            />
+        <TextView
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="注:性别仅一次操作"
+            android:textSize="12sp"
+            android:textColor="@color/colorRose"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/x120"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="生日: "
+            android:layout_marginTop="10dp"
+
+            android:textSize="17sp"
+            />
+        <TextView
+            android:layout_width="@dimen/x278"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="1998年 08月 28日"
+            android:layout_marginLeft="@dimen/x40"
+            android:layout_marginTop="10dp"
+            android:textColor="#513640"
+            />
+
+    </LinearLayout>
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="@dimen/x600"
+        android:layout_height="@dimen/x88"
+        android:text="完成"
+        android:textSize="16sp"
+        android:background="@drawable/shape_pver"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        />
+
+</LinearLayout>
