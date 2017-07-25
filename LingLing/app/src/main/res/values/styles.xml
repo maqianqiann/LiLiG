@@ -1,0 +1,95 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="margin_s">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">@dimen/x20</item>
+        <item name="android:layout_marginLeft">@dimen/x22</item>
+        <item name="android:layout_marginBottom">@dimen/x20</item>
+        <item name="android:textSize">@dimen/x28</item>
+    </style>
+
+    <style name="linear_s">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/x88</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">#a9ffffff</item>
+    </style>
+
+    <style name="zh_s">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/x98</item>
+        <item name="android:textSize">@dimen/x28</item>
+        <item name="android:textColor">#434343</item>
+        <item name="android:layout_marginLeft">@dimen/x22</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="linear_button_two">
+        <item name="android:layout_marginTop">@dimen/x16</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/x72</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/x20</item>
+        <item name="android:layout_marginLeft">@dimen/x22</item>
+        <item name="android:layout_marginRight">@dimen/x22</item>
+    </style>
+
+    <style name="search_text">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/x26</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_marginLeft">@dimen/x30</item>
+    </style>
+
+    <style name="margin">
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+        <item name="android:layout_marginTop">@dimen/x30</item>
+        <item name="android:layout_marginRight">@dimen/x20</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="start_data">
+        <item name="android:layout_width">@dimen/x240</item>
+        <item name="android:layout_height">@dimen/x240</item>
+        <item name="android:layout_marginTop">@dimen/x98</item>
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+        <item name="android:layout_marginBottom">@dimen/x46</item>
+    </style>
+
+    <style name="over_data_time">
+        <item name="android:layout_width">@dimen/x126</item>
+        <item name="android:layout_height">@dimen/x60</item>
+        <item name="android:background">@mipmap/qdyh_zs</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/x22</item>
+    </style>
+
+    <style name="over_data_txt">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/x28</item>
+        <item name="android:layout_marginLeft">@dimen/x20</item>
+        <item name="android:layout_marginRight">@dimen/x20</item>
+    </style>
+
+    <style name="new_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/x100</item>
+        <item name="android:textSize">@dimen/x26</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:padding">@dimen/x30</item>
+    </style>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj_bs"
+    >
+<include
+    layout="@layout/view_simple_topbar"></include>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x280"
+        android:background="@mipmap/xszy_banner"
+        />
+    <TextView
+        android:text="什么时令令？"
+        style="@style/new_style" />
+    <TextView
+        android:text="怎么发布约么任务？"
+        style="@style/new_style" />
+    <TextView
+        android:text="怎么发布租吧任务？"
+        style="@style/new_style" />
+
+</LinearLayout>

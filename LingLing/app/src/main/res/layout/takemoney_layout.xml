@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/qb_bj"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#d8ffffff"
+        >
+        <include
+            layout="@layout/view_simple_topbar"/>
+        <EditText
+            android:layout_width="@dimen/x422"
+            android:layout_height="@dimen/x78"
+            android:background="#fff"
+             android:layout_marginTop="@dimen/x142"
+            android:layout_gravity="center_horizontal"
+            android:shadowColor="@color/black_88"
+            android:id="@+id/edit_take_money"
+            />
+        <TextView
+            android:layout_width="@dimen/x422"
+            android:layout_height="wrap_content"
+            android:text="可提现金额为 ：￥1000.00"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/colorPre"
+            android:textSize="@dimen/x34"
+            android:layout_marginLeft="@dimen/x6"
+            android:layout_marginTop="@dimen/x36"
+            />
+
+        <Button
+            android:layout_width="@dimen/x673"
+            android:layout_height="@dimen/x88"
+            android:background="@mipmap/fb_zs"
+            android:text="提现"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/x32"
+            android:textColor="#fff"
+            android:layout_marginTop="@dimen/x196"
+            android:id="@+id/but_take_money"
+            />
+        <TextView
+            android:layout_width="@dimen/x673"
+            android:layout_height="wrap_content"
+            android:text="注：提现成功后 资金会在24小时内达到支付宝账户"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/black_88"
+            android:textSize="@dimen/x26"
+            android:layout_marginTop="@dimen/x59"
+            android:layout_marginLeft="@dimen/x30"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

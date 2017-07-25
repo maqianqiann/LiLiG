@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/qb_bj"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#d8ffffff"
+        android:orientation="vertical"
+        >
+<include
+    layout="@layout/view_simple_topbar"/>
+    <LinearLayout style="@style/linear_button_two">
+    <Button
+        android:id="@+id/but_show_mytask"
+         android:layout_width="wrap_content"
+         android:layout_height="@dimen/x72"
+         android:text="发布"
+         android:textSize="@dimen/x30"
+         android:textColor="@drawable/save_show_coloe"
+         android:background="@drawable/show_save_selector"
+         android:layout_weight="1"
+        />
+        <Button
+            android:id="@+id/but_save_mytask"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/x72"
+            android:text="接到"
+            android:textSize="@dimen/x30"
+            android:textColor="@drawable/save_show_coloe"
+            android:background="@drawable/show_save_selector"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listview_mytask"
+        ></ListView>
+</LinearLayout>
+</LinearLayout>

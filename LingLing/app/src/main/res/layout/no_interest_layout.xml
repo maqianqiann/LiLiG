@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj_bs"
+    >
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x20"/>
+<include
+    layout="@layout/view_simple_topbar"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x76"
+        android:text="50人"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/x28"
+        android:gravity="center"
+        android:background="@color/colorNoInterest"
+        />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listView_no_interest"
+        android:layout_margin="@dimen/x20"
+        ></ListView>
+
+
+</LinearLayout>
